@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Mohammad</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist</h3>
+<h1 align="left">Hi 👋, I'm Ibrahim Mohammad</h1>
+<h3 align="left">Machine Learning Engineer | Data Scientist</h3>
 
 - 🔭 I’m currently improving **Earnings Oracle**, an ML model for earnings forecasting  
 - 🌱 Exploring **MLOps** and **LLM Fine-Tuning**  
